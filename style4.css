@@ -1,0 +1,25 @@
+body {
+	background-color: #CC6600;
+}
+
+p {
+	font-family: Arial;
+	text-align: center;
+	font-size: 45px;
+}
+
+dl {
+	font-family: Arial;
+	font-size: 40px;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+nav {
+	text-align: center;
+	font-size: 35px;
+	font-family: georgian;
+	padding: 25px 50px 25px;
+}

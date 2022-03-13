@@ -1,0 +1,26 @@
+body {
+	background-color: #99FF00;
+}
+
+p {
+	font-family: Arial;
+	text-align: center;
+	font-size: 45px;
+}
+
+dl {
+	font-family: Arial;
+	font-size: 40px;
+}
+
+img {
+	width: 600px;
+	height: 700px;
+}
+
+nav {
+	text-align: center;
+	font-size: 35px;
+	font-family: georgian;
+	padding: 25px 50px 25px;
+}
